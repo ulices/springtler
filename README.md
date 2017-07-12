@@ -10,6 +10,8 @@ An easy way to create spring planners
 
 * Database creation
 
+- PostgreSQL 9.6
+
 * Database initialization
 
 * How to run the test suite
