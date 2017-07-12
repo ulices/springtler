@@ -10,7 +10,7 @@ An easy way to create spring planners
 
 * Database creation
 
-- PostgreSQL 9.6
+...PostgreSQL 9.6
 
 * Database initialization
 
